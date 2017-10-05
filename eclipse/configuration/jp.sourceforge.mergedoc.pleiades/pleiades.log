@@ -1,0 +1,40 @@
+INFO  16:49:06.275 [main] (Pleiades) Pleiades キャッシュ保管パス: D:\dev\pleiades\eclipse\configuration\jp.sourceforge.mergedoc.pleiades
+INFO  16:49:06.275 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:init.batch=../xampp/setup_xampp_no_pause.bat
+INFO  16:49:06.283 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:45 D:\dev\pleiades\eclipse\plugins\com.fasterxml.jackson.core.jackson-annotations_2.6.2.v20161117-2150.jar
+INFO  16:49:06.284 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:45 D:\dev\pleiades\eclipse\plugins\com.fasterxml.jackson.core.jackson-core_2.6.2.v20161117-2150.jar
+INFO  16:49:06.285 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:45 D:\dev\pleiades\eclipse\plugins\com.fasterxml.jackson.core.jackson-databind_2.6.2.v20161117-2150.jar
+INFO  16:49:06.285 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:45 D:\dev\pleiades\eclipse\plugins\com.vmware.vfabric.ide.eclipse.tcserver.livegraph_3.9.0.201707010859-RELEASE.jar
+INFO  16:49:06.286 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:46 D:\dev\pleiades\eclipse\plugins\com.vmware.vfabric.ide.eclipse.tcserver.reloading_3.9.0.201707010859-RELEASE.jar
+INFO  16:49:06.286 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:47:47 D:\dev\pleiades\eclipse\plugins\io.projectreactor.reactor-core_3.0.7.201706071909-RELEASE.jar
+INFO  16:49:06.287 [pool-2-thread-1] (Applications) ファイル更新検出: 2017-10-05 16:48:17 D:\dev\pleiades\eclipse\plugins\javassist_3.13.0.GA_v201209210905.jar
+INFO  16:49:06.341 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (前回): 2017-06-27 21:06:48
+INFO  16:49:06.341 [pool-2-thread-1] (Applications) ファイル更新最終時刻 (今回): 2017-10-05 16:48:17
+INFO  16:49:06.342 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。pleiades-config.xml
+INFO  16:49:06.342 [pool-2-thread-1] (LauncherEclipseTransformer) Eclipse プラグインの更新が検出されたため、強制的に -clean モードで起動します。
+INFO  16:49:06.343 [pool-1-thread-4] (PropertySet) load  0.000 秒 -      6 エントリー org.eclipse.ui.ide.prefs
+INFO  16:49:06.344 [pool-1-thread-2] (PropertySet) load  0.001 秒 -     69 エントリー translation-exclude-package.properties
+INFO  16:49:06.353 [pool-1-thread-2] (PropertySet) load  0.004 秒 -    478 エントリー translation-regex.properties
+INFO  16:49:06.366 [pool-1-thread-2] (PropertySet) load  0.000 秒 -     16 エントリー translation-regex-through.properties
+INFO  16:49:06.399 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  16:49:06.460 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:true
+INFO  16:49:06.463 [main] (CacheFiles) すべてのキャッシュ・ファイルをクリアしました。
+INFO  16:49:06.468 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  16:49:06.468 [pool-1-thread-2] (ExcludeClassNameCache) exclude-class.list が存在しません。
+INFO  16:49:06.468 [pool-1-thread-2] (TransformedClassCache) transformed-class.cache が存在しません。
+INFO  16:49:06.832 [pool-1-thread-2] (AbstractTranslationDictionary$1) load  0.289 秒 - 134652 エントリー translation.properties
+INFO  16:49:06.833 [pool-1-thread-2] (PropertySet) load  0.001 秒 -    265 エントリー translation-first.properties
+INFO  16:49:21.806 [main] (LauncherEclipseTransformer) transform: org.eclipse.ui.internal.Workbench
+INFO  16:49:21.998 [main] (LauncherEclipseTransformer) transform: org.eclipse.ui.application.WorkbenchAdvisor
+INFO  16:49:22.144 [main] (LauncherEclipseTransformer) transform: org.eclipse.core.resources.ResourcesPlugin
+INFO  16:49:22.988 [main] (LauncherEclipseTransformer) transform: org.eclipse.ui.splash.BasicSplashHandler$AbsolutePositionProgressMonitorPart
+INFO  16:49:23.107 [main] (LauncherEclipseTransformer) transform: org.eclipse.ui.internal.WorkbenchWindow
+INFO  16:49:23.111 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  16:49:45.093 [main] (Analyses) Eclipse 始動完了 - 始動時間: 38.617 秒。-clean:true
+INFO  16:56:09.129 [main] (TransformedClassCache) transformed-class.cache が存在しません。
+INFO  16:56:09.295 [main] (TransformedClassCache) store     608 エントリー transformed-class.cache
+INFO  16:56:09.301 [main] (ExcludeClassNameCache) exclude-class.list が存在しません。
+INFO  16:56:09.327 [main] (ExcludeClassNameCache) store  11799 エントリー exclude-class.list
+INFO  16:56:09.338 [main] (CachePropertySet) store 0.010 秒 -   2518 エントリー mnemonic-cache.properties.zip
+INFO  16:56:09.342 [main] (CachePropertySet) ニーモニック変換キャッシュ・プロパティーを更新しました。
+INFO  16:56:09.440 [main] (ValueHashPropertySet) store 0.099 秒 -  25489 エントリー translation-cache.properties.zip
+INFO  16:56:09.445 [main] (CachePropertySet) 翻訳キャッシュ・プロパティーを更新しました。

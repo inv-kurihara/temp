@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='D:\dev\pleiades\eclipse\dropins\EPIC' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1507189758293'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='7'>
+    <artifact classifier='org.eclipse.update.feature' id='org.epic.feature.main' version='0.7.3'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/features/org.epic.feature.main_0.7.3/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\features\org.epic.feature.main_0.7.3'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.doc' version='0.7.1'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.doc_0.7.1/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.doc_0.7.1'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.source' version='0.7.3'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.source_0.7.3/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.source_0.7.3'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.lib' version='0.7.1'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.lib_0.7.1/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.lib_0.7.1'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.regexp' version='0.7.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='25266'/>
+        <property name='download.size' value='25266'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.regexp_0.7.1.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.regexp_0.7.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.debug' version='0.7.1'>
+      <properties size='2'>
+        <property name='artifact.size' value='313205'/>
+        <property name='download.size' value='313205'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.debug_0.7.1.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.debug_0.7.1.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.epic.perleditor' version='0.7.3'>
+      <properties size='2'>
+        <property name='artifact.size' value='1124707'/>
+        <property name='download.size' value='1124707'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EPIC/eclipse/plugins/org.epic.perleditor_0.7.3.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EPIC\eclipse\plugins\org.epic.perleditor_0.7.3.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: baWDgKOXUPKH+4iM1a35yiY3RwP8s
+ chW/l5WmZAM4Kg=
+SHA-256-Digest-Manifest: 4w4dWFGXL9u1rngwTJBcAwYZGs+iD6UXKVyi84S21PE=
+Created-By: 1.8.0_77 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: ppb9qfgEDbQBOgAGrNrwCe4aLhXvPhYvYBs2Bo9WyP8=
+
+Name: codecompletion.jar
+SHA-256-Digest: rHVykG1cAzNyYok5mntLpH63t7AHZvC0Z2cJd5nPN38=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.codecompletion/
+ pom.properties
+SHA-256-Digest: PgyCwOvZXgD4S6FUEyC7aATOulTYBgFRA/c+v+mYas0=
+
+Name: LICENSE.TXT
+SHA-256-Digest: mtk2pu43aWF40oMq/sr3cRMcILygEgrX4KgNzXYsnaA=
+
+Name: META-INF/maven/org.python.pydev/com.python.pydev.codecompletion/
+ pom.xml
+SHA-256-Digest: mZ7xd5daFmzE+DLOIe974H3KRs3K5Pr1aaVEUyHZyOE=
+

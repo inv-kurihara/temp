@@ -1,0 +1,125 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: oWObr3phkhHEQ+ba/shlfgRLYvU=
+Created-By: 1.6.0_65 (Apple Inc.)
+SHA1-Digest-Manifest: ZgPEB+1pMhU3SrXrTySOvJIrdXU=
+
+Name: conf/translation-notfound-exclud.list
+SHA1-Digest: hL7L1FOnSc2/+mdKfcv7/Ew95C4=
+
+Name: conf/images/splash3.7.bmp
+SHA1-Digest: 0pDxoYZsv7smTRIZLYbjbiBZoqQ=
+
+Name: icons/preferences.png
+SHA1-Digest: AvwD5oPah8ChPRj8To96d0/FZls=
+
+Name: conf/translation-exclude-package.properties
+SHA1-Digest: 9CY5cV27FvKusX+25sJ3z4LfJ6c=
+
+Name: conf/.marker
+SHA1-Digest: HO/po68ayH0c6IEW1a1XhAxterU=
+
+Name: conf/images/splash.bmp
+SHA1-Digest: F6b/VIejam03yma31a6Jcq28MjY=
+
+Name: conf/images/splash4.6.bmp
+SHA1-Digest: aELu2Fj7u2Es97dOtEKIR/dRaUE=
+
+Name: lib/javassist/javassist-version-3.21.0-GA
+SHA1-Digest: ICs+wraVFAO5Gad6IVO9/SM9+Sg=
+
+Name: epl-v10.html
+SHA1-Digest: xipg4kdvniXTRoluum46PzkHsAQ=
+
+Name: conf/images/splash_clean.png
+SHA1-Digest: po2thbc9m2wZPGwkNqigyT7bKio=
+
+Name: conf/additions/_readme.txt
+SHA1-Digest: FJzw/iFBWw5qcw5L5kjmEUfeTKo=
+
+Name: pleiades.jar
+SHA1-Digest: YdWyUpnBnaFMotHIc/IIUMEfNPM=
+
+Name: lib/javassist/License.html
+SHA1-Digest: kaWTwFgb8bI3Hb2wGi+fas3inyc=
+
+Name: conf/translation-first.properties
+SHA1-Digest: 92H+88Qqal5GM9ADx9RqDW6/ZW0=
+
+Name: about.html
+SHA1-Digest: fNXajHB3gtIH8e0O5VRVlWivEws=
+
+Name: conf/images/splash3.5.bmp
+SHA1-Digest: Xv+dx3d0yNACKukTlvlpa+q3578=
+
+Name: conf/translation-override-idea.properties
+SHA1-Digest: frJotQaPFSLNtVXEucigUyuXpL0=
+
+Name: conf/translation.properties
+SHA1-Digest: cc6eWwSlSe2FRiwWGk/TwTjkKJM=
+
+Name: lib/javassist/javassist.jar
+SHA1-Digest: cnUmMYgApgj7aZiiJQD4M/rWTUM=
+
+Name: conf/pleiades-config-idea.xml
+SHA1-Digest: RhhzE74IF1bAElBmjqtoNjCVe7c=
+
+Name: conf/translation-help-exclude.properties
+SHA1-Digest: VUs2BR1g+AUvtdPrFTQnsv72YQI=
+
+Name: conf/translation-regex.properties
+SHA1-Digest: 05mG2pWewrQ4L+pfoHT0vdMgvpQ=
+
+Name: conf/images/splash4.3.bmp
+SHA1-Digest: uazKHMV5Uvjg1rh8kibTaxOOF6U=
+
+Name: conf/images/splash4.2.bmp
+SHA1-Digest: Y4/q56OQgjU+3jXzd7sxS03TKAE=
+
+Name: conf/pleiades-config.xml
+SHA1-Digest: y49pUXRd0hbM4lxSECyoLk9YO8A=
+
+Name: plugin.properties
+SHA1-Digest: oQX30aznuxWn6C4GSH8UwU8OpJ8=
+
+Name: conf/images/Thumbs.db
+SHA1-Digest: dVIe0GCvqjijNduAUCFtuFvx3XE=
+
+Name: about.ini
+SHA1-Digest: 8XfXa01T6o3fl8uBieOOmuiPb7o=
+
+Name: featureImage.png
+SHA1-Digest: 4TS+PJoubcbCRtFVn056mOZl0SI=
+
+Name: conf/images/splash3.3.bmp
+SHA1-Digest: Jv6qVwFP+m5IqSMo170E6AMZA6s=
+
+Name: conf/images/splash3.6.bmp
+SHA1-Digest: UHLQkU7IV+8ibhOcSDgoFoUniuc=
+
+Name: conf/images/splash3.4.bmp
+SHA1-Digest: PMS7tlqJYkInxMNFiohg/ZE0cnI=
+
+Name: conf/pleiades-config-default.xml
+SHA1-Digest: qHaiY31mDj+fx7QnMr0D6uIClRI=
+
+Name: about.properties
+SHA1-Digest: kDiM6aof4l4ipQGZpp3EMNeKTK8=
+
+Name: plugin.xml
+SHA1-Digest: QMFGFlPsfJDuihdYO4VGwVA1FsI=
+
+Name: conf/images/splash4.4.bmp
+SHA1-Digest: i8COE5o/czdDms6TxQALKdFnXWg=
+
+Name: conf/images/splash4.7.bmp
+SHA1-Digest: LA1l5x3i2G2I30LSptTV//y0KzI=
+
+Name: conf/images/splash4.5.bmp
+SHA1-Digest: PlldPSxExn5dsFCYY2G75Bdm7cQ=
+
+Name: conf/translation-regex-through.properties
+SHA1-Digest: P6/2arPoD8LK7/249fCFhb7LPKU=
+
+Name: conf/translation-converter_sample.properties
+SHA1-Digest: IY90fqjw3+EOoQYX3rpa7J4PkW4=
+

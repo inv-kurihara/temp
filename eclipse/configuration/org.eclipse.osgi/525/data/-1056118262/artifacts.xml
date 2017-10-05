@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='D:\dev\pleiades\eclipse\dropins\EGradleEditor' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1507189758245'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='6'>
+    <artifact classifier='osgi.bundle' id='de.jcup.egradle.eclipse.plugin.branding' version='2.0.0'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/plugins/de.jcup.egradle.eclipse.plugin.branding_2.0.0/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\plugins\de.jcup.egradle.eclipse.plugin.branding_2.0.0'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='de.jcup.egradle.eclipse.plugin.main' version='2.0.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='7097492'/>
+        <property name='download.size' value='7097492'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/plugins/de.jcup.egradle.eclipse.plugin.main_2.0.0.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\plugins\de.jcup.egradle.eclipse.plugin.main_2.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='de.jcup.egradle.eclipse.plugin.editor.gradle' version='2.0.0'>
+      <properties size='2'>
+        <property name='artifact.size' value='228518'/>
+        <property name='download.size' value='228518'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/plugins/de.jcup.egradle.eclipse.plugin.editor.gradle_2.0.0.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\plugins\de.jcup.egradle.eclipse.plugin.editor.gradle_2.0.0.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='de.jcup.egradle.eclipse.plugin.sdk' version='3.0.2'>
+      <properties size='2'>
+        <property name='artifact.size' value='982276'/>
+        <property name='download.size' value='982276'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/plugins/de.jcup.egradle.eclipse.plugin.sdk_3.0.2.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\plugins\de.jcup.egradle.eclipse.plugin.sdk_3.0.2.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='de.jcup.egradle.eclipse.feature.editor' version='2.0.0'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/features/de.jcup.egradle.eclipse.feature.editor_2.0.0/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\features\de.jcup.egradle.eclipse.feature.editor_2.0.0'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='de.jcup.egradle.eclipse.feature.core' version='2.0.0'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/EGradleEditor/eclipse/features/de.jcup.egradle.eclipse.feature.core_2.0.0/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\EGradleEditor\eclipse\features\de.jcup.egradle.eclipse.feature.core_2.0.0'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

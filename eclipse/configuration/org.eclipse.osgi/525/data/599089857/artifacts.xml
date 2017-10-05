@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='D:\dev\pleiades\eclipse\dropins\Ruby' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1507189758872'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='13'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.formatter' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='439782'/>
+        <property name='download.size' value='439782'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.formatter_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.formatter_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.debug' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='18762'/>
+        <property name='download.size' value='18762'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.debug_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.debug_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='223042'/>
+        <property name='download.size' value='223042'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.abstractdebugger' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='56175'/>
+        <property name='download.size' value='56175'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.abstractdebugger_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.abstractdebugger_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.testing' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='105409'/>
+        <property name='download.size' value='105409'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.testing_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.testing_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.activestatedebugger' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='20159'/>
+        <property name='download.size' value='20159'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.activestatedebugger_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.activestatedebugger_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.fastdebugger' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='31433'/>
+        <property name='download.size' value='31433'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.fastdebugger_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.fastdebugger_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.core' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='779031'/>
+        <property name='download.size' value='779031'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.core_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.core_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.launching' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='34303'/>
+        <property name='download.size' value='34303'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.launching_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.launching_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='15686'/>
+        <property name='download.size' value='15686'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.basicdebugger' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='29388'/>
+        <property name='download.size' value='29388'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.basicdebugger_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.basicdebugger_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.dltk.ruby' version='5.8.0.201706030400'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/features/org.eclipse.dltk.ruby_5.8.0.201706030400/'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\features\org.eclipse.dltk.ruby_5.8.0.201706030400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ruby.debug.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='61011'/>
+        <property name='download.size' value='61011'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/pleiades/eclipse/dropins/Ruby/eclipse/plugins/org.eclipse.dltk.ruby.debug.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\pleiades\eclipse\dropins\Ruby\eclipse\plugins\org.eclipse.dltk.ruby.debug.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>
