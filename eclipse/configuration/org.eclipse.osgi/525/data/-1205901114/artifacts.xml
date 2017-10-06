@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='D:\dev\workspace\temp\eclipse\dropins\PDT' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1507272320689'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='64'>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.testing' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='389823'/>
+        <property name='download.size' value='389823'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.testing_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.testing_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.native' version='5.10.0.201706051601'>
+      <properties size='2'>
+        <property name='artifact.size' value='37711'/>
+        <property name='download.size' value='37711'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.cdt.core.native_5.10.0.201706051601.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.cdt.core.native_5.10.0.201706051601.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.validators.externalchecker' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='75021'/>
+        <property name='download.size' value='75021'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.validators.externalchecker_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.validators.externalchecker_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.server.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='146170'/>
+        <property name='download.size' value='146170'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.server.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.server.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.wst.web_ui.feature' version='3.9.0.v201706011851'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.wst.web_ui.feature_3.9.0.v201706011851/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.wst.web_ui.feature_3.9.0.v201706011851'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.help' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='3530083'/>
+        <property name='download.size' value='3530083'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.help_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.help_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.debug.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='894450'/>
+        <property name='download.size' value='894450'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.debug.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.debug.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='2964383'/>
+        <property name='download.size' value='2964383'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.formatter.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='193243'/>
+        <property name='download.size' value='193243'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.formatter.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.formatter.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.dltk.mylyn' version='5.8.0.201706030400'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.dltk.mylyn_5.8.0.201706030400/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.dltk.mylyn_5.8.0.201706030400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.formatter' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='67279'/>
+        <property name='download.size' value='67279'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.formatter_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.formatter_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.validators.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='77194'/>
+        <property name='download.size' value='77194'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.validators.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.validators.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.ui.importer' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='13583'/>
+        <property name='download.size' value='13583'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.ui.importer_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.ui.importer_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.logconsole.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='20904'/>
+        <property name='download.size' value='20904'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.logconsole.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.logconsole.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.annotations' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='11784'/>
+        <property name='download.size' value='11784'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.annotations_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.annotations_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore.edit' version='2.9.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='127829'/>
+        <property name='download.size' value='127829'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.emf.ecore.edit_2.9.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.emf.ecore.edit_2.9.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.php.mylyn' version='5.0.0.201706070751'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.php.mylyn_5.0.0.201706070751/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.php.mylyn_5.0.0.201706070751'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.logconsole' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='24207'/>
+        <property name='download.size' value='24207'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.logconsole_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.logconsole_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='15651'/>
+        <property name='download.size' value='15651'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.mylyn.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='26725'/>
+        <property name='download.size' value='26725'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.mylyn.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.mylyn.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.tm.terminal.control' version='4.2.0.201609191434'>
+      <properties size='2'>
+        <property name='artifact.size' value='189208'/>
+        <property name='download.size' value='189208'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.tm.terminal.control_4.2.0.201609191434.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.tm.terminal.control_4.2.0.201609191434.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.edit.ui' version='2.13.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='239772'/>
+        <property name='download.size' value='239772'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.emf.edit.ui_2.13.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.emf.edit.ui_2.13.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.php' version='5.0.0.201706070751'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.php_5.0.0.201706070751/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.php_5.0.0.201706070751'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.debug' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='323544'/>
+        <property name='download.size' value='323544'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.debug_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.debug_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.debug.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='604657'/>
+        <property name='download.size' value='604657'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.debug.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.debug.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.composer.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='613332'/>
+        <property name='download.size' value='613332'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.composer.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.composer.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.mylyn' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='112924'/>
+        <property name='download.size' value='112924'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.mylyn_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.mylyn_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.console' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='31453'/>
+        <property name='download.size' value='31453'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.console_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.console_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.php.composer' version='5.0.0.201706070751'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.php.composer_5.0.0.201706070751/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.php.composer_5.0.0.201706070751'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.debug.daemon' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='21625'/>
+        <property name='download.size' value='21625'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.debug.daemon_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.debug.daemon_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.phpunit' version='5.0.0.201706070751'>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.phpunit_5.0.0.201706070751/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.phpunit_5.0.0.201706070751'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.composer.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='121218'/>
+        <property name='download.size' value='121218'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.composer.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.composer.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.formatter.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='113355'/>
+        <property name='download.size' value='113355'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.formatter.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.formatter.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.refactoring.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='241365'/>
+        <property name='download.size' value='241365'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.refactoring.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.refactoring.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.dltk.core' version='5.8.0.201706030400'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.dltk.core_5.8.0.201706030400/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.dltk.core_5.8.0.201706030400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.debug.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='768815'/>
+        <property name='download.size' value='768815'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.debug.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.debug.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.zest.core' version='1.5.300.201606061308'>
+      <properties size='2'>
+        <property name='artifact.size' value='150762'/>
+        <property name='download.size' value='150762'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.zest.core_1.5.300.201606061308.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.zest.core_1.5.300.201606061308.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.dltk.core.index.lucene' version='5.8.0.201706030400'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.dltk.core.index.lucene_5.8.0.201706030400/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.dltk.core.index.lucene_5.8.0.201706030400'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.core.index.lucene' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='65050'/>
+        <property name='download.size' value='65050'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.core.index.lucene_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.core.index.lucene_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.core.manipulation' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='136882'/>
+        <property name='download.size' value='136882'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.core.manipulation_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.core.manipulation_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.console.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='87239'/>
+        <property name='download.size' value='87239'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.console.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.console.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.composer.api' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='132320'/>
+        <property name='download.size' value='132320'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.composer.api_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.composer.api_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='6252222'/>
+        <property name='download.size' value='6252222'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.apache.commons.exec' version='1.1.0.v201301240602'>
+      <properties size='2'>
+        <property name='artifact.size' value='62309'/>
+        <property name='download.size' value='62309'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.apache.commons.exec_1.1.0.v201301240602.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.apache.commons.exec_1.1.0.v201301240602.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.tm.terminal.view.ui' version='4.2.100.201612221053'>
+      <properties size='2'>
+        <property name='artifact.size' value='257809'/>
+        <property name='download.size' value='257809'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.tm.terminal.view.ui_4.2.100.201612221053.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.tm.terminal.view.ui_4.2.100.201612221053.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.wst.web_core.feature' version='3.9.0.v201706011851'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.wst.web_core.feature_3.9.0.v201706011851/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.wst.web_core.feature_3.9.0.v201706011851'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.builtin.server.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='116788'/>
+        <property name='download.size' value='116788'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.builtin.server.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.builtin.server.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.cdt.core.macosx' version='5.3.0.201706051601'>
+      <properties size='2'>
+        <property name='artifact.size' value='31632'/>
+        <property name='download.size' value='31632'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.cdt.core.macosx_5.3.0.201706051601.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.cdt.core.macosx_5.3.0.201706051601.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.common.ui' version='2.12.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='158966'/>
+        <property name='download.size' value='158966'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.emf.common.ui_2.12.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.emf.common.ui_2.12.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.zest.layouts' version='1.1.300.201606061308'>
+      <properties size='2'>
+        <property name='artifact.size' value='133142'/>
+        <property name='download.size' value='133142'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.zest.layouts_1.1.300.201606061308.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.zest.layouts_1.1.300.201606061308.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.validators.core' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='86072'/>
+        <property name='download.size' value='86072'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.validators.core_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.validators.core_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.wst.jsdt.feature' version='2.1.0.v201705091354'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.wst.jsdt.feature_2.1.0.v201705091354/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.wst.jsdt.feature_2.1.0.v201705091354'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xsd' version='2.13.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='996611'/>
+        <property name='download.size' value='996611'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.xsd_2.13.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.xsd_2.13.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.launching' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='290051'/>
+        <property name='download.size' value='290051'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.launching_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.launching_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.core.parser' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='132318'/>
+        <property name='download.size' value='132318'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.core.parser_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.core.parser_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.xsd.edit' version='2.8.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='223602'/>
+        <property name='download.size' value='223602'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.xsd.edit_2.8.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.xsd.edit_2.8.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.builtin.server.ui' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='59187'/>
+        <property name='download.size' value='59187'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.builtin.server.ui_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.builtin.server.ui_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.core.index' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='15748'/>
+        <property name='download.size' value='15748'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.core.index_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.core.index_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.server.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='51799'/>
+        <property name='download.size' value='51799'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.server.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.server.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='org.eclipse.php.phpunit.feature' version='5.0.0.201706070751'>
+      <properties size='1'>
+        <property name='download.contentType' value='application/zip'/>
+      </properties>
+      <repositoryProperties size='3'>
+        <property name='artifact.folder' value='true'/>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/features/org.eclipse.php.phpunit.feature_5.0.0.201706070751/'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\features\org.eclipse.php.phpunit.feature_5.0.0.201706070751'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.core' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='1772531'/>
+        <property name='download.size' value='1772531'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.core_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.core_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.php.refactoring.core' version='5.0.0.201706070751'>
+      <properties size='2'>
+        <property name='artifact.size' value='271315'/>
+        <property name='download.size' value='271315'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.php.refactoring.core_5.0.0.201706070751.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.php.refactoring.core_5.0.0.201706070751.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.dltk.ui' version='5.8.0.201706030400'>
+      <properties size='2'>
+        <property name='artifact.size' value='4987355'/>
+        <property name='download.size' value='4987355'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.dltk.ui_5.8.0.201706030400.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.dltk.ui_5.8.0.201706030400.jar'/>
+      </repositoryProperties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='org.eclipse.emf.edit' version='2.12.0.v20170504-0807'>
+      <properties size='2'>
+        <property name='artifact.size' value='278881'/>
+        <property name='download.size' value='278881'/>
+      </properties>
+      <repositoryProperties size='2'>
+        <property name='artifact.reference' value='file:/D:/dev/workspace/temp/eclipse/dropins/PDT/eclipse/plugins/org.eclipse.emf.edit_2.12.0.v20170504-0807.jar'/>
+        <property name='file.name' value='D:\dev\workspace\temp\eclipse\dropins\PDT\eclipse\plugins\org.eclipse.emf.edit_2.12.0.v20170504-0807.jar'/>
+      </repositoryProperties>
+    </artifact>
+  </artifacts>
+</repository>

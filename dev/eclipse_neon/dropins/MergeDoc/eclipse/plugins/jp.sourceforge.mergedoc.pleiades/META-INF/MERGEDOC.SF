@@ -1,0 +1,135 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: cg1rb0xKqmZbDBVzyIWDgsckvHoXb
+ +PYXNp8TeyydEI=
+SHA-256-Digest-Manifest: lZK71q2Ohc2ky3s5yVqLCvJSpkrF42kcWn/ZJRpsMpc=
+Created-By: 1.8.0_112 (Oracle Corporation)
+
+Name: about.properties
+SHA-256-Digest: UpV3kOQPnKX6GK89OjVDlS/sCbO39ahqgn9WP6viNCg=
+
+Name: plugin.xml
+SHA-256-Digest: T+FY/cztk3vUJ1Tnsq8pmIyl+4B9qou+wvizklloNDI=
+
+Name: conf/splash3.5.bmp
+SHA-256-Digest: TIWRU3nY1lFHk815jE16BmW4iLxFofn1S6K0xOVu1Hs=
+
+Name: conf/pleiades-config.xml
+SHA-256-Digest: avRPGN89ex5bGMm5DSS3/AQKQb9E2vAJyTRaFvwB4iw=
+
+Name: lib/javassist/javassist.jar
+SHA-256-Digest: f1vGV82JuHjsVBHJbVYIvlJNWWSOGlYW72fti4+n0vo=
+
+Name: conf/splash.bmp
+SHA-256-Digest: 1YsS/iFOmVS12Xo1zqRhFyn7Gocdhc/Gphnx5QHt8do=
+
+Name: conf/translation-exclude-package.properties
+SHA-256-Digest: YwU7rW60hALKnypGFyBYkMwpU3idBQ/yZlH/ybF2Yx4=
+
+Name: conf/splash4.2.bmp
+SHA-256-Digest: rBqoy6OLNbH9aPkCBu6Sqro0O90JVvNDO6I0SwMmfx4=
+
+Name: conf/pleiades-config-default.xml
+SHA-256-Digest: 2kq+Ed8kuL6OI8fZ1Uqgu24SoZ1An8EgpASIGjmR66g=
+
+Name: lib/apache/commons-lang.jar
+SHA-256-Digest: KGOyikkZ6TkzJUcWrgliMdtsno5nQ2EfnVCV7P5mTnk=
+
+Name: conf/splash3.6.bmp
+SHA-256-Digest: o+YqIkzQsyETPpc84t1+wRJqwbpcQv3VsRY2PYcN+GM=
+
+Name: conf/.marker
+SHA-256-Digest: 3JS9ZhMFTbnU9x6LVh/kKOGWMZeTbQu28sSqMKOq1EM=
+
+Name: icons/preferences.png
+SHA-256-Digest: goPhBE9aQ4B937WF2H+VSM42xlHCPsLo2gIml+K4UWc=
+
+Name: conf/splash3.4.bmp
+SHA-256-Digest: xR2JW0zL90+ZVHq/4gEM9awQDDE5w5y7vzuYQoukjhw=
+
+Name: conf/translation-converter_sample.properties
+SHA-256-Digest: xT8YdbZQCj/xe6RSk0E64jzK61yqmeFQFBTgwFIP4/w=
+
+Name: conf/translation-first.properties
+SHA-256-Digest: gQxiN7xSrx3TpoLXHzlJ7WZoMplrgjkQGDRhrIAz9po=
+
+Name: conf/translation-help-exclude.properties
+SHA-256-Digest: hgzUVrczHMDqHeNfIDIsOlmQ8I4tcLaV2ufTUQ5Gbms=
+
+Name: about.ini
+SHA-256-Digest: PwRmz+ZwZgE2NMYuPHZmft5TdcfkLMjRDEl2K282N1c=
+
+Name: lib/apache/commons-io.jar
+SHA-256-Digest: UxbDJD5IqpqrEQBKOplTtKtIWXW6NceieOMgIx6/hHo=
+
+Name: conf/splash3.7.bmp
+SHA-256-Digest: 7ctg+QfCdAAmdtc3Cll8OxTeT2huIkr7VYNdEmok3xQ=
+
+Name: plugin.properties
+SHA-256-Digest: E/MU4J0xRN0TKZS7WEKZVknUSfErfbxb/5+BRklvbRw=
+
+Name: pleiades.jar
+SHA-256-Digest: agm9Jhkss65cI5Dg0h59LyPsvu38XDsdgOz/sipJVCg=
+
+Name: conf/translation-notfound-exclud.list
+SHA-256-Digest: U4wV4aDXHT38o8efsh2I2ZQXH42Or7IAK3QLnwaA4kw=
+
+Name: conf/splash3.3.bmp
+SHA-256-Digest: liZy7es58lKmsKP9PRnsaE0WwkYmTLuP7YMA5l57hF0=
+
+Name: lib/javassist/javassist-version-3.20.0-GA
+SHA-256-Digest: WCvoymhH32/3Qs3VLFjzl0FrW3LLt4YdEPHi8rXJ3s8=
+
+Name: lib/javassist/License.html
+SHA-256-Digest: tYtIl+KNjmqpfNysPncoZmiSKwhDbZ/fNci2UDjCJdQ=
+
+Name: about.html
+SHA-256-Digest: Trx1h9MCqdr0VE+SVgYAXP3zJus8OHW5JbwKbg3l4lU=
+
+Name: featureImage.png
+SHA-256-Digest: 8uUCaBspfA0VtM0gcFvW43H5qqdjnt/HVyl//Oh3KOg=
+
+Name: conf/splash4.5.bmp
+SHA-256-Digest: U8bY+48Hcwl9LcxAj3e5fIJE/I7CCj/IoxGWuBsab2I=
+
+Name: conf/translation-help-unchecked.properties
+SHA-256-Digest: prO+RpauX/NHg94spMR/ONArPt1LOweeYaxYqANfvkc=
+
+Name: conf/translation-regex.properties
+SHA-256-Digest: 2+2Hmbc7wp3kDuYqffKNgpk3FYvoGdXvJ8YK7jIGMTQ=
+
+Name: conf/translation-regex-through.properties
+SHA-256-Digest: Db3BX948mq+6Vjhn8dvIOZmgV9O7CEY8NES/GNVn03U=
+
+Name: conf/translation.properties
+SHA-256-Digest: C+8250hPhU1NSePnEF7k+DSp2sWR2dBbHCFFadT+2hM=
+
+Name: conf/splash4.4.bmp
+SHA-256-Digest: 290aZekEKZZSkE6pqo3q5u4aNkFSpxddktZmzlevxF0=
+
+Name: lib/apache/commons-lang-version-2.4
+SHA-256-Digest: ITrjLM6BiM+x/pGzW3hKRugpV21glyCjnNflH36TVuQ=
+
+Name: conf/splash4.6.bmp
+SHA-256-Digest: QH4jiHrJ0ad8FjjIbyyAXq3VtGXVpnZiP1mhBTL7d4w=
+
+Name: lib/apache/commons-io-version-1.4
+SHA-256-Digest: 1gjwMzE4KBgaP/4hYAzIf9WuHdEgpo8pIvasLB9oLvE=
+
+Name: lib/apache/LICENSE.txt
+SHA-256-Digest: d1FrVysrG7D8Bl4175A3OhKyzD6oaAQ2NmafvG0CaZk=
+
+Name: conf/additions/_readme.txt
+SHA-256-Digest: /0S8dBxuAeHWjjETY1/hhH0pG1CyPjfGHiQjjr6CZ+4=
+
+Name: epl-v10.html
+SHA-256-Digest: ivPTM3phc3zNk5zAa0eKwnKMIkhfBeiYvWu+PXfq0DI=
+
+Name: conf/splash_clean.png
+SHA-256-Digest: IADoHTd2BP4YoAHPbirDtujhTSi8v81DNA82b/3N+jQ=
+
+Name: conf/splash4.3.bmp
+SHA-256-Digest: wDcGFWYjg6uLanW3VcxHUQQ9ZDb+ELDuqnYKt/+Pf/o=
+
+Name: conf/splash4.7.bmp
+SHA-256-Digest: UEFXAspou5Hb9CrCfOz9ORgK3BX9tBibrpK5/j6nqcI=
+

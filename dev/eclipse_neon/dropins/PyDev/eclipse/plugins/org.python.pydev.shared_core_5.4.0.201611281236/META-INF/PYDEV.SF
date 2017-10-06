@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: ROBq9Xjm5Lgmu8k+fliXjitA9fdnM
+ QFcQDoqK5Ep354=
+SHA-256-Digest-Manifest: eLmyrAS8CVkfZ4v00/MqV0DOpA2TH5HfMyuHL4Kxbko=
+Created-By: 1.8.0_77 (Oracle Corporation)
+
+Name: libs/snakeyaml-1.11.jar
+SHA-256-Digest: k8qpouBKSgdTm48+fy+IQq4FLe2IzQ1Btk4LCuceniY=
+
+Name: libs/lucene-analyzers-common-5.2.1.jar
+SHA-256-Digest: ykpMZi/4UDbm56SOdlz5h+KCwJDw3PrFbfo5qhS0lLQ=
+
+Name: shared_core.jar
+SHA-256-Digest: +FIn2ADjveh3j+XRac3qJ5DDvM4sG+kkvIN9CzHmX3c=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.shared_core/pom
+ .xml
+SHA-256-Digest: 118RQWf52BI9Y16pD5KSOXgZhR8LFlk7HPRh6pjNF/Q=
+
+Name: libs/lucene-core-5.2.1.jar
+SHA-256-Digest: IuEgbm0tNjTsaAeDLVuNUTrS4MpVOe8BUD7hCCwb07s=
+
+Name: LICENSE.txt
+SHA-256-Digest: kKR//0aU3zBgl9SCeCpwoQ+GrOEHBzEb90XcPTX/6Do=
+
+Name: META-INF/maven/org.python.pydev/org.python.pydev.shared_core/pom
+ .properties
+SHA-256-Digest: 6yfQO//Ifow73wP5zgXoDUJjP9HLQUd30QEM79U7zmw=
+

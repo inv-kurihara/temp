@@ -1,0 +1,20 @@
+INFO  16:20:37.830 [main] (Pleiades) Pleiades 構成保管パス: C:\dev\pleiades\eclipse\configuration\jp.sourceforge.mergedoc.pleiades
+INFO  16:20:37.831 [main] (Pleiades) Eclipse AOP 起動トランスフォーマーを開始します。Pleiades 起動オプション:null
+INFO  16:20:37.893 [main] (PleiadesConfig) Pleiades 構成ファイルをロードしました。C:\dev\pleiades\eclipse\dropins\MergeDoc\eclipse\plugins\jp.sourceforge.mergedoc.pleiades\conf\pleiades-config.xml
+INFO  16:20:37.895 [pool-1-thread-2] (PropertySet) load  0.001 秒 -     69 エントリー translation-exclude-package.properties
+INFO  16:20:37.896 [pool-1-thread-5] (PropertySet) load  0.001 秒 -      6 エントリー org.eclipse.ui.ide.prefs
+INFO  16:20:37.903 [pool-1-thread-3] (PropertySet) load  0.008 秒 -    398 エントリー translation-regex.properties
+INFO  16:20:37.916 [pool-1-thread-3] (PropertySet) load  0.001 秒 -     16 エントリー translation-regex-through.properties
+INFO  16:20:37.943 [pool-2-thread-1] (EclipseFiles) 前回のプラグイン更新最終時刻: 2017-02-06 17:20:43
+INFO  16:20:37.943 [pool-2-thread-1] (EclipseFiles) 今回のプラグイン更新最終時刻: 2017-02-06 17:20:43
+INFO  16:20:37.955 [main] (LauncherEclipseTransformer) transform: org.eclipse.equinox.launcher.Main
+INFO  16:20:38.026 [main] (LauncherTransformer) アプリケーションの起動を開始しました。-clean:false
+INFO  16:20:38.026 [main] (LauncherTransformer) Pleiades AOP 起動トランスフォーマーを停止します。
+INFO  16:20:38.033 [main] (LauncherTransformer) Pleiades AOP 翻訳トランスフォーマーを開始します。
+INFO  16:20:38.088 [pool-1-thread-3] (ExcludeClassNameCache) load   26029 エントリー exclude-class.list
+INFO  16:20:38.217 [pool-1-thread-3] (TransformedClassCache) load    1022 エントリー transformed-class.cache
+INFO  16:20:38.304 [pool-1-thread-3] (ValueHashPropertySet) load  0.085 秒 -  33056 エントリー translation-cache.properties.zip
+INFO  16:20:38.312 [pool-1-thread-3] (CachePropertySet) load  0.007 秒 -   3088 エントリー mnemonic-cache.properties.zip
+INFO  16:20:47.423 [main] (AbstractTranslationDictionary$1) load  0.256 秒 - 124566 エントリー translation.properties
+INFO  16:20:47.425 [main] (AbstractTranslationDictionary$1) load  0.002 秒 -    170 エントリー translation-first.properties
+INFO  16:20:49.753 [main] (Analyses) Eclipse 始動完了 - 始動時間: 11.535 秒。-clean:false

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (c) 2009 IBM Corporation and others.
+    All rights reserved. This program and the accompanying materials
+    are made available under the terms of the Eclipse Public License v1.0
+    which accompanies this distribution, and is available at
+    http://www.eclipse.org/legal/epl-v10.html
+
+    Contributors:
+        IBM Corporation - initial API and implementation
+        Zend Technologies
+ -->
+<feature
+      id="org.eclipse.php"
+      label="%featureName"
+      version="4.1.0.201609140517"
+      provider-name="%providerName"
+      plugin="org.eclipse.php.ui">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.dltk.core" version="5.6.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.dltk.core.index.lucene" version="5.6.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.wst.jsdt.feature"/>
+      <import feature="org.eclipse.wst.web_ui.feature"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.php.core"
+         download-size="6079"
+         install-size="24989"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.core"
+         download-size="815"
+         install-size="1786"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.ui"
+         download-size="671"
+         install-size="1386"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.server.core"
+         download-size="50"
+         install-size="90"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.server.ui"
+         download-size="144"
+         install-size="289"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.ui"
+         download-size="2803"
+         install-size="6292"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.debug.daemon"
+         download-size="20"
+         install-size="32"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.help"
+         download-size="2954"
+         install-size="3583"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.core.parser"
+         download-size="120"
+         install-size="240"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.formatter.core"
+         download-size="108"
+         install-size="297"
+         version="4.1.0.201609140517"/>
+
+   <plugin
+         id="org.eclipse.php.formatter.ui"
+         download-size="198"
+         install-size="483"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.refactoring.core"
+         download-size="265"
+         install-size="640"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.php.refactoring.ui"
+         download-size="224"
+         install-size="470"
+         version="4.1.0.201609140517"
+         unpack="false"/>
+
+</feature>
