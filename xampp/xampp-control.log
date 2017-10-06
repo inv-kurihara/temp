@@ -1,0 +1,111 @@
+15:46:04  [main] 	Initializing Control Panel
+15:46:04  [main] 	Windows Version:  Pro  64-bit
+15:46:04  [main] 	XAMPP Version: 5.6.28
+15:46:04  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:46:04  [main] 	You are not running with administrator rights! This will work for
+15:46:04  [main] 	most application stuff but whenever you do something with services
+15:46:04  [main] 	there will be a security dialogue or things will break! So think 
+15:46:04  [main] 	about running this application with administrator rights!
+15:46:04  [main] 	XAMPP Installation Directory: "c:\dev\pleiades\xampp\"
+15:46:04  [main] 	Checking for prerequisites
+15:46:05  [main] 	All prerequisites found
+15:46:05  [main] 	Initializing Modules
+15:46:05  [mysql] 	Problem detected: MySQL Not Found!
+15:46:05  [mysql] 	Disabling MySQL buttons
+15:46:05  [mysql] 	Run this program from your XAMPP root directory!
+15:46:05  [filezilla] 	Problem detected: FileZilla Not Found!
+15:46:05  [filezilla] 	Disabling FileZilla buttons
+15:46:05  [filezilla] 	Run this program from your XAMPP root directory!
+15:46:05  [mercury] 	Problem detected: Mercury Not Found!
+15:46:05  [mercury] 	Disabling Mercury buttons
+15:46:05  [mercury] 	Run this program from your XAMPP root directory!
+15:46:05  [main] 	Starting Check-Timer
+15:46:05  [main] 	Control Panel Ready
+15:59:30  [Apache] 	Status change detected: running
+15:59:31  [Apache] 	Status change detected: stopped
+15:59:31  [Apache] 	Error: Apache shutdown unexpectedly.
+15:59:31  [Apache] 	This may be due to a blocked port, missing dependencies, 
+15:59:31  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+15:59:31  [Apache] 	Press the Logs button to view error logs and check
+15:59:31  [Apache] 	the Windows Event Viewer for more clues
+15:59:31  [Apache] 	If you need more help, copy and post this
+15:59:31  [Apache] 	entire log window on the forums
+16:04:11  [Apache] 	Status change detected: running
+16:04:11  [Apache] 	Status change detected: stopped
+16:04:11  [Apache] 	Error: Apache shutdown unexpectedly.
+16:04:11  [Apache] 	This may be due to a blocked port, missing dependencies, 
+16:04:11  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+16:04:11  [Apache] 	Press the Logs button to view error logs and check
+16:04:11  [Apache] 	the Windows Event Viewer for more clues
+16:04:11  [Apache] 	If you need more help, copy and post this
+16:04:11  [Apache] 	entire log window on the forums
+16:04:13  [mysql] 	Status change detected: running
+16:04:13  [mysql] 	Status change detected: stopped
+16:04:13  [mysql] 	Error: MySQL shutdown unexpectedly.
+16:04:13  [mysql] 	This may be due to a blocked port, missing dependencies, 
+16:04:13  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+16:04:13  [mysql] 	Press the Logs button to view error logs and check
+16:04:13  [mysql] 	the Windows Event Viewer for more clues
+16:04:13  [mysql] 	If you need more help, copy and post this
+16:04:13  [mysql] 	entire log window on the forums
+16:10:49  [main] 	Deinitializing Modules
+16:10:49  [main] 	Deinitializing Control Panel
+
+16:04:09  [main] 	Initializing Control Panel
+16:04:09  [main] 	Windows Version:  Pro  64-bit
+16:04:09  [main] 	XAMPP Version: 5.6.28
+16:04:09  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+16:04:09  [main] 	You are not running with administrator rights! This will work for
+16:04:09  [main] 	most application stuff but whenever you do something with services
+16:04:09  [main] 	there will be a security dialogue or things will break! So think 
+16:04:09  [main] 	about running this application with administrator rights!
+16:04:09  [main] 	XAMPP Installation Directory: "c:\dev\pleiades\xampp\"
+16:04:09  [main] 	Checking for prerequisites
+16:04:09  [main] 	All prerequisites found
+16:04:09  [main] 	Initializing Modules
+16:04:09  [filezilla] 	Problem detected: FileZilla Not Found!
+16:04:09  [filezilla] 	Disabling FileZilla buttons
+16:04:09  [filezilla] 	Run this program from your XAMPP root directory!
+16:04:09  [mercury] 	Problem detected: Mercury Not Found!
+16:04:09  [mercury] 	Disabling Mercury buttons
+16:04:09  [mercury] 	Run this program from your XAMPP root directory!
+16:04:09  [main] 	Starting Check-Timer
+16:04:09  [main] 	Control Panel Ready
+16:04:11  [Apache] 	Attempting to start Apache app...
+16:04:13  [mysql] 	Attempting to start MySQL app...
+16:10:49  [main] 	Deinitializing Modules
+16:10:49  [main] 	Deinitializing Control Panel
+
+16:37:25  [main] 	Initializing Control Panel
+16:37:25  [main] 	Windows Version:  Pro  64-bit
+16:37:25  [main] 	XAMPP Version: 5.6.28
+16:37:25  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+16:37:25  [main] 	You are not running with administrator rights! This will work for
+16:37:25  [main] 	most application stuff but whenever you do something with services
+16:37:25  [main] 	there will be a security dialogue or things will break! So think 
+16:37:25  [main] 	about running this application with administrator rights!
+16:37:25  [main] 	XAMPP Installation Directory: "c:\dev\pleiades\xampp\"
+16:37:25  [main] 	Checking for prerequisites
+16:37:25  [main] 	All prerequisites found
+16:37:25  [main] 	Initializing Modules
+16:37:25  [filezilla] 	Problem detected: FileZilla Not Found!
+16:37:25  [filezilla] 	Disabling FileZilla buttons
+16:37:25  [filezilla] 	Run this program from your XAMPP root directory!
+16:37:25  [mercury] 	Problem detected: Mercury Not Found!
+16:37:25  [mercury] 	Disabling Mercury buttons
+16:37:25  [mercury] 	Run this program from your XAMPP root directory!
+16:37:25  [main] 	Starting Check-Timer
+16:37:25  [main] 	Control Panel Ready
+16:37:27  [mysql] 	Attempting to start MySQL app...
+16:37:28  [mysql] 	Status change detected: running
+16:37:28  [mysql] 	Status change detected: stopped
+16:37:28  [mysql] 	Error: MySQL shutdown unexpectedly.
+16:37:28  [mysql] 	This may be due to a blocked port, missing dependencies, 
+16:37:28  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+16:37:28  [mysql] 	Press the Logs button to view error logs and check
+16:37:28  [mysql] 	the Windows Event Viewer for more clues
+16:37:28  [mysql] 	If you need more help, copy and post this
+16:37:28  [mysql] 	entire log window on the forums
+17:11:19  [main] 	Deinitializing Modules
+17:11:19  [main] 	Deinitializing Control Panel
+

@@ -1,0 +1,258 @@
+# -----------------------------------------------------------
+# XAMPP Japanese message file for Pleiades All in One.
+# FIRST AUTHOR cypher256 Pleiades MergeDoc Project, 2016.
+# -----------------------------------------------------------
+msgid ""
+msgstr ""
+"Project-Id-Version: XAMPP JA\n"
+"POT-Creation-Date: 2012-08-20 21:08\n"
+"PO-Revision-Date: 2016-06-18 17:50+0900\n"
+"Last-Translator: Shinji KASHIHARA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Language-Team: \n"
+"Language: ja\n"
+
+#. fConfig..Caption
+#: uConfig.dfm:4
+msgid "Configuration of Control Panel"
+msgstr "コントロールパネルの構成"
+
+#. fConfig..lblEditor..Caption
+#: uConfig.dfm:33
+msgid "Editor:"
+msgstr "エディター:"
+
+#. fConfig..lblBrowser..Caption
+#: uConfig.dfm:44
+msgid "Browser (empty = system default)"
+msgstr "ブラウザー (空 = システムデフォルト)"
+
+#. fConfig..bSave..Caption
+#. fConfigUserDefined..bSave..Caption
+#. fLanguage..bOkay..Caption
+#. fLogOptions..bSave..Caption
+#. fServiceSettings..bSave..Caption
+#: uConfig.dfm:108 uConfigUserDefined.dfm:69 uLanguage.dfm:191
+#: uLogOptions.dfm:92 uServiceSettings.dfm:43
+msgid "Save"
+msgstr "保管"
+
+#. fConfig..bAbort..Caption
+#. fConfigUserDefined..bAbort..Caption
+#. fLanguage..bAbort..Caption
+#. fLogOptions..bCancel..Caption
+#. fServiceSettings..bCancel..Caption
+#: uConfig.dfm:151 uConfigUserDefined.dfm:112 uLanguage.dfm:233
+#: uLogOptions.dfm:134 uServiceSettings.dfm:79
+msgid "Abort"
+msgstr "中止"
+
+#. fConfig..cbDebug..Caption
+#: uConfig.dfm:245
+msgid "Show debug information"
+msgstr "デバッグ情報を表示する"
+
+#. fConfig..grpAutostart..Caption
+#: uConfig.dfm:274
+msgid " Autostart of modules "
+msgstr " モジュールの自動開始 "
+
+#. fConfig..grpAutostart..lblAutostart....Caption
+#: uConfig.dfm:292
+msgid "Selected modules will be started on next launch of the Control Panel."
+msgstr "選択したモジュールはコントロールパネルの次の起動時に開始されます。"
+
+#. fConfig..cbCheckDefaultPorts..Caption
+#: uConfig.dfm:369
+msgid "Check default ports on startup"
+msgstr "開始時にデフォルトポートをチェックする"
+
+#. fConfig..bLanguage..Caption
+#: uConfig.dfm:382
+msgid "Change Language"
+msgstr "言語変更"
+
+#. fConfig..bConfigUserdefined..Caption
+#: uConfig.dfm:396
+msgid "User Defined Files"
+msgstr "ユーザー定義ファイル"
+
+#. fConfig..cbTomcatVisible..Caption
+#: uConfig.dfm:411
+msgid "Enable Tomcat output window"
+msgstr "Tomcat 出力ウィンドウを使用可能にする"
+
+#. fConfig..bLogSettings..Caption
+#. fLogOptions..Caption
+#: uConfig.dfm:420 uLogOptions.dfm:4
+msgid "Log Options"
+msgstr "ログオプション"
+
+#. fConfig..bServiceSettings..Caption
+#: uConfig.dfm:429
+msgid "Service and Port Settings"
+msgstr "サービスとポート設定"
+
+#. fConfig..cbMinimized..Caption
+#: uConfig.dfm:446
+msgid "Start Control Panel Minimized"
+msgstr "コントロールパネルを最小化して開始する"
+
+#. fConfigUserDefined..pcUserDefConf..pApache..pnlApache..lblApacheConf..Caption
+#. fConfigUserDefined..pcUserDefConf..pMySQL..pnlMySQL..lblMySQLConf..Caption
+#. fConfigUserDefined..pcUserDefConf..pFileZilla..pnlFileZilla..lblFileZillaConf..Caption
+#. fConfigUserDefined..pcUserDefConf..pMercury..pnlMercury..lblMercuryConf..Caption
+#. fConfigUserDefined..pcUserDefConf..TabSheet5..pnlTomcat..lblTomcatConf..Caption
+#. fMain..bConfig..Caption
+#. fMain..gbModules..bApacheConfig..Caption
+#. fMain..gbModules..bMySQLConfig..Caption
+#. fMain..gbModules..bFileZillaConfig..Caption
+#. fMain..gbModules..bMercuryConfig..Caption
+#. fMain..gbModules..bTomcatConfig..Caption
+#: uConfigUserDefined.dfm:171 uConfigUserDefined.dfm:242
+#: uConfigUserDefined.dfm:313 uConfigUserDefined.dfm:384
+#: uConfigUserDefined.dfm:455 uMain.dfm:1049 uMain.dfm:1500 uMain.dfm:1526
+#: uMain.dfm:1552 uMain.dfm:1578 uMain.dfm:1711
+msgid "Config"
+msgstr "構成"
+
+#. fConfigUserDefined..pcUserDefConf..pApache..pnlApache..lblApacheLogs..Caption
+#. fConfigUserDefined..pcUserDefConf..pMySQL..pnlMySQL..lblMySQLLogs..Caption
+#. fConfigUserDefined..pcUserDefConf..pFileZilla..pnlFileZilla..lblFileZillaLogs..Caption
+#. fConfigUserDefined..pcUserDefConf..pMercury..pnlMercury..lblMercuryLogs..Caption
+#. fConfigUserDefined..pcUserDefConf..TabSheet5..pnlTomcat..lblTomcatLogs..Caption
+#. fMain..gbModules..bApacheLogs..Caption
+#. fMain..gbModules..bMySQLLogs..Caption
+#. fMain..gbModules..bFileZillaLogs..Caption
+#. fMain..gbModules..bMercurylogs..Caption
+#. fMain..gbModules..bTomcatLogs..Caption
+#: uConfigUserDefined.dfm:188 uConfigUserDefined.dfm:259
+#: uConfigUserDefined.dfm:330 uConfigUserDefined.dfm:401
+#: uConfigUserDefined.dfm:472 uMain.dfm:1513 uMain.dfm:1539 uMain.dfm:1565
+#: uMain.dfm:1672 uMain.dfm:1738
+msgid "Logs"
+msgstr "ログ"
+
+#. fHelp..Caption
+#. fMain..bHelp..Caption
+#: uHelp.dfm:4 uMain.dfm:1834
+msgid "Help"
+msgstr "ヘルプ"
+
+#. fMain..Caption
+#. fMain..lHeader..Caption
+#: uMain.dfm:4 uMain.dfm:1011
+msgid "XAMPP Control Panel v"
+msgstr "XAMPP コントロールパネル v"
+
+#. fMain..bSCM..Caption
+#: uMain.dfm:1095
+msgid "Services"
+msgstr "サービス"
+
+#. fMain..gbModules..Caption
+#: uMain.dfm:1141
+msgid " Modules "
+msgstr " モジュール "
+
+#. fMain..gbModules..lPIDs..Caption
+#: uMain.dfm:1159
+msgid "PID(s)"
+msgstr "PID"
+
+#. fMain..gbModules..lPorts..Caption
+#: uMain.dfm:1177
+msgid "Port(s)"
+msgstr "ポート"
+
+#. fMain..gbModules..Label1..Caption
+#: uMain.dfm:1303 uTools.pas:482
+msgid "Service"
+msgstr "サービス"
+
+#. fMain..gbModules..Label2..Caption
+#: uMain.dfm:1321
+msgid "Module"
+msgstr "モジュール"
+
+#. fMain..gbModules..Label3..Caption
+#: uMain.dfm:1338
+msgid "Actions"
+msgstr "操作"
+
+#. fMain..gbModules..bApacheAction..Caption
+#. fMain..gbModules..bMySQLAction..Caption
+#. fMain..gbModules..bFileZillaAction..Caption
+#. fMain..gbModules..bMercuryAction..Caption
+#. fMain..gbModules..bTomcatAction..Caption
+#. fMain..puSystray..ApacheTray..ApacheTrayControl..Caption
+#. fMain..puSystray..MySQLTray..MySQLTrayControl..Caption
+#. fMain..puSystray..FileZillaTray..FileZillaTrayControl..Caption
+#. fMain..puSystray..MercuryTray..MercuryTrayControl..Caption
+#. fMain..puSystray..TomcatTray..TomcatTrayControl..Caption
+#: uMain.dfm:1382 uMain.dfm:1408 uMain.dfm:1434 uMain.dfm:1460 uMain.dfm:1685
+#: uMain.dfm:3006 uMain.dfm:3014 uMain.dfm:3022 uMain.dfm:3030 uMain.dfm:3038
+#: uApache.pas:478 uApache.pas:481 uFileZilla.pas:369 uFileZilla.pas:372
+#: uMercury.pas:342 uMercury.pas:345 uMySQL.pas:384 uMySQL.pas:387
+#: uTomcat.pas:442 uTomcat.pas:445
+msgid "Start"
+msgstr "開始"
+
+#. fMain..gbModules..bApacheAdmin..Caption
+#. fMain..gbModules..bMySQLAdmin..Caption
+#. fMain..gbModules..bFileZillaAdmin..Caption
+#. fMain..gbModules..bMercuryAdmin..Caption
+#. fMain..gbModules..bTomcatAdmin..Caption
+#: uMain.dfm:1395 uMain.dfm:1421 uMain.dfm:1447 uMain.dfm:1473 uMain.dfm:1698
+msgid "Admin"
+msgstr "管理"
+
+#. fMain..bQuit..Caption
+#. fMain..puSystray..miTerminate..Caption
+#: uMain.dfm:1788 uMain.dfm:3046
+msgid "Quit"
+msgstr "終了"
+
+#. fMain..bExplorer..Caption
+#: uMain.dfm:1880
+msgid "Explorer"
+msgstr "フォルダー"
+
+#. fMain..bXamppShell..Caption
+#: uMain.dfm:1972
+msgid "Shell"
+msgstr "シェル"
+
+#. fNetstat..Caption
+#: uNetstat.dfm:5
+msgid "Netstat - TCP Listening sockets"
+msgstr "Netstat - TCP リスニングソケット"
+
+#. fNetstat..bRefresh..Caption
+#: uNetstat.dfm:81
+msgid "Refresh"
+msgstr "リフレッシュ"
+
+#. fNetstat..pnlActiveExample..Caption
+#: uNetstat.dfm:107
+msgid "Active socket"
+msgstr "アクティブ"
+
+#. fNetstat..pnlOldExample..Caption
+#: uNetstat.dfm:127
+msgid "Old socket"
+msgstr "旧"
+
+#. fNetstat..pnlNewExample..Caption
+#: uNetstat.dfm:147
+msgid "New socket"
+msgstr "新"
+
+#: uApache.pas:463 uApache.pas:466 uApache.pas:471 uFileZilla.pas:361
+#: uFileZilla.pas:364 uMercury.pas:334 uMercury.pas:337 uMySQL.pas:376
+#: uMySQL.pas:379 uTomcat.pas:434 uTomcat.pas:437
+msgid "Stop"
+msgstr "停止"
